@@ -29,7 +29,7 @@
 5. Xem lịch sử mua hàng:
 * Xem lịch sử và xem chi tiết từng đơn hàng.
 
-### Phân hệ 3: Phân hệ quản trị:
+### Phân hệ 3: Phân hệ quản trị:(chưa hoàn thành)
 1. Dashboard:
 * Hiển thị danh sách chức năng của admin.
 2. Quản lý sản phẩm, loại sản phẩm, nhà sản xuất.
